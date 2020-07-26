@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title><font color="white">  Tribute Page</title></font>
+  
+  
+  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
+
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  <link rel="stylesheet"href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+
+<style>
+  .container-fluid {background:rgb(0,0,0)}
+  h3 {color:yellow}
+  p,li,h1{color: white}
+  img{width:200px}
+  .font{font-size:25px}
+  .link{font-size:25px;color:rgb(255,248,220)}
+  .center-image {
+display:block;
+margin:auto;
+    
+}
+</style>
+<div class="container-fluid">
+<center><h1 class="text-primary text-center"> DORA THE EXPLORER</h1></center>
+  <center><i><h3 class="text-center"> (WHAT'S INSIDE MY BAG?) </center></i></h3>
+<div><img class"img-responsive" src="file:///C:/Users/user/Desktop/html/DORA.jpg" class="center-image" alt="DORA THE EXPLORER"></div>
+    
+
+<div> 
+    <b><center><p >DORA THE EXPLORER (2000–2010)</p></center>
+  </b></div>
+  
+  <b> <p class="text-center">10 Things You Didn’t Know About DORA THE EXPLORER:</p></b>
+  <ul>
+    <li>No one would expect a character that causes so much trouble to also voice the character that provides so much help. Marc Weiner voices both Swiper and the Map, and appeared in both the live-action movie, and the spin-off series, Go, Diego, Go! Marc has not ventured far out of voice acting, and has mostly appeared in Dora-related content in his career. </li>
+    <li>It's hard to imagine Dora's bestie, Boots, as anything other than the curious little monkey, but he was originally thought to be a mouse. 
+    </li>
+     <li>Another initial decision was Boots' color, which was yellow. However, after testing the show with audiences they decided on his signature purple hue. The purple was thought to be more cohesive with the other characters' colors on the show, while the yellow clashed. </li>
+     <li>The cartoon had won many awards, including a Peabody Award in 2004, an NAACP Award in 2009 and 2010, and a Daytime Emmy Award in 2011. Dora the Explorer clearly resonated with critics, as well as audiences. 
+    </li>
+     <li>It's not just everyday folks who love the series; many celebrities do, too. Hilary Duff, Shakira, Alan Cumming, Rosie Perez, and John Leguizamo are some of the celebs who guest-starred on Dora the Explorer. Brad Pitt and Angelina Jolie famously showed their kids an episode in which Dora's mom has twins to prepare their own children for the arrival of their new siblings. 
+    </li>
+     <li>Nickelodeon spared no expense for the quality of the show, and apparently, the network was more than 300 people working on a single episode. It also initially took over a year to create a single episode. With all of the expert opinions and screenings, it makes sense that the creators needed extra time to make sure each showing was just right.
+    </li>
+      <li>Dora the Explorer was so beloved by fans, that Nickelodeon decided to create a spin-off series based on Dora's cousin, Diego. After Go, Diego, Go! saw much success, even more Latinx-based children's shows were created -- like Special Agent Oso and Sofia the First -- giving people even more representation. In an age with such little diversity, it was great to see children's shows championing the cause. 
+    </li>
+   <li>The live-action movie fell a little flat with viewers and critics, but it was perfect timing for fans who have grown up with Dora. Kids who remember Dora from their childhood are now adults (and likely parents) that makes Dora and the Lost City of Gold a great family-friendly movie for the kiddos.
+    </li>
+   <li>One of the best parts of the series is the interactive element. Dora often asks her young viewers for help, leaving a pause for a genuine response. At the end of each episode, a recurring character would hide somewhere on-screen, and it would be up to the viewers to find him or her. The viewer is symbolized by a blue computer mouse that moves across the screen and clicks on the hidden character. 
+    </li>
+   <li>From Saturday Night Live parodies, to references on other Nickelodeon shows, like Drake & Josh, Dora is everywhere in pop culture. Even adult cartoons -- like Family Guy, South Park, Futurama, and American Dad -- have joked about the children's show.  These references further reiterate the cartoon character's fame and relevance in the public eye. 
+    </li>
+
+  
+      <p class="font">"EVEN THOUGH YOU CAN SEE IT,PRETEND LIKE YOU AIN'T SEEING IT AND TRY TO GAIN ATTENTION BY ASKING PEOPLE IF THEY CAN SEE IT"</p>
+<p>-- DORA THE EXPLORER</p>
+   </ul>
+  <p class="link">If you have time, you should read more about this incredible EXPLOREER <a href="https://en.wikipedia.org/wiki/dora" target="_blank"><i>Wikipedia entry</i></a>.</p>
+</div>
+  
+  
+
+</body>
+
+</html>
